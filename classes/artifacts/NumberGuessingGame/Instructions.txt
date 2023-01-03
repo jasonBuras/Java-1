@@ -1,0 +1,3 @@
+Open your terminal/cmd and open the directory to [/NumberGuessingGame]
+Copy/Paste || Type
+"java -jar jtburas_1583.jar" to run the program
